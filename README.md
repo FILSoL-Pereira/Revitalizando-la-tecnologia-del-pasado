@@ -1,6 +1,6 @@
 <div align="center">
 
-# Revitalizando-la-tecnologia-del-pasado
+# Revitalizando la tecnologia del pasado
 
 </div>
 
